@@ -5,4 +5,4 @@ Made using [PyWebIO](https://www.pyweb.io/).
 Just run `main.py` and enjoy!
 
 # Author
-(2022) Abraham Tugalov
+(2025) Ylham Shadyyew
